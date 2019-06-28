@@ -1,4 +1,4 @@
-#rails server -b $IP -p $PORT - run code
+#rails server -b $IP -p $PORT - run codess
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
